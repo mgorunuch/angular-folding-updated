@@ -1,1 +1,1 @@
-rootProject.name = "angular-folding"
+rootProject.name = "angular-folding-updated"
